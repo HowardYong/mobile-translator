@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>506852681184-fbperkf3ru58b9m8oa62lmoldfkoe2d1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.506852681184-fbperkf3ru58b9m8oa62lmoldfkoe2d1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBngtMYTCqOcIkkMSaOk9OAAqSv_xZrr2w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>506852681184</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>spark-login-interface</string>
+	<key>PROJECT_ID</key>
+	<string>spark-login-interface</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spark-login-interface.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:506852681184:ios:6d67dd9be1973ed4</string>
+	<key>DATABASE_URL</key>
+	<string>https://spark-login-interface.firebaseio.com</string>
+</dict>
+</plist>
